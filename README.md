@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Yug Mallik
 
 🚀 Microsoft Certified Trainer (MCT) | AI & Digital Transformation Leader | Builder
-💡 Designing and delivering AI solutions that create measurable business impact.
+> 💡 Designing and delivering AI solutions that create measurable business impact.
 
 
 ## 🧠 About Me
