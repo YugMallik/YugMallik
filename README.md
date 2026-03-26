@@ -4,6 +4,7 @@
 > 💡 Designing and delivering AI solutions that create measurable business impact.
 
 
+
 ## 🧠 About Me
 
 I bring over 18 years of experience across enterprise technology, AI, and digital transformation.
