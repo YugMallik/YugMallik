@@ -3,7 +3,6 @@
 🚀 Microsoft Certified Trainer (MCT) | AI & Digital Transformation Leader | Builder
 💡 Designing and delivering AI solutions that create measurable business impact.
 
----
 
 ## 🧠 About Me
 
@@ -19,7 +18,6 @@ I operate at the intersection of:
 With a strong emphasis on:
 > Moving from *experimentation* → *production-ready AI solutions*
 
----
 
 ## 🔍 Areas of Focus
 
@@ -30,7 +28,6 @@ With a strong emphasis on:
 - **AI Integration for Enterprise Platforms**
 - **Decision Support & Analytics Systems**
 
----
 
 ## 🏗️ Selected Work
 
@@ -41,28 +38,24 @@ End-to-end system for document extraction, validation, and structured insights g
 
 👉 https://github.com/YugMallik/azure-document-intelligence-extractor
 
----
 
 ### 🔹 Azure OpenAI Summerizer
 AI-powered solution for generating concise, context-aware summaries from large text inputs using Azure OpenAI.
 
 👉 https://github.com/YugMallik/azure-openai-summarizer
 
----
 
 ### 🔹 Azure Document Compare
 Intelligent document comparison system that identifies differences, similarities, and key changes across documents using AI.
 
 👉 https://github.com/YugMallik/azure-doc-compare
 
----
 
 ### 🔹 Azure OpenAI Enterprise RAG
 Enterprise-grade Retrieval-Augmented Generation (RAG) system for querying and extracting insights from large, unstructured data sources.
 
 👉 https://github.com/YugMallik/AZURE-RAG-OpenAI
 
----
 
 ## 🛠️ Technical Expertise
 
@@ -91,7 +84,6 @@ Enterprise-grade Retrieval-Augmented Generation (RAG) system for querying and ex
 - Data Modeling
 - Workflow Automation Systems
 
----
 
 ## 📈 Current Focus
 
@@ -99,7 +91,6 @@ Enterprise-grade Retrieval-Augmented Generation (RAG) system for querying and ex
 - Designing agent-based architectures for automation and decision-making  
 - Exploring practical applications of AI across industries  
 
----
 
 ## 🤝 Collaboration
 
@@ -110,7 +101,6 @@ I’m open to collaborating on:
 
 If you're working on something meaningful in AI, feel free to connect.
 
----
 
 ## ⚡ Philosophy
 
