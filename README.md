@@ -1,144 +1,119 @@
 # 👋 Hey, I'm Yug Mallik
 
-🚀 AI Founder | Builder | Microsoft Certified Trainer (MCT)  
-💡 Turning AI from hype → real business impact  
+🚀 Microsoft Certified Trainer (MCT) | AI & Digital Transformation Leader | Builder
+💡 Designing and delivering AI solutions that create measurable business impact.
 
 ---
 
 ## 🧠 About Me
 
-I'm an AI & Digital Strategy Leader with 18+ years of experience building and scaling technology solutions across industries like healthcare, enterprise platforms, and automation.
+I bring over 18 years of experience across enterprise technology, AI, and digital transformation.
 
-Today, I’m focused on:
-- 🧩 Building AI-first products
-- ⚡ Automating workflows using GenAI & Agentic AI
-- 📈 Helping businesses adopt AI for real ROI (not just PoCs)
+My work focuses on translating AI capabilities into real-world systems that drive efficiency, scalability, and decision intelligence.
 
-I bridge the gap between:
-> **"Cool AI demos" → "Production-ready AI systems"** :contentReference[oaicite:0]{index=0}
+I operate at the intersection of:
+- **Artificial Intelligence**
+- **Business Strategy**
+- **System Design & Automation**
 
----
-
-## 🔥 What I Build
-
-### 🤖 AI Products
-- Smart Document AI (Extraction, Validation, Analytics)
-- AI Chatbots & Assistants (RAG + Agentic Workflows)
-- LinkedIn AI Post Generator (Content + Scheduling + Engagement)
-
-### ⚙️ Automation Systems
-- Business workflow automation
-- AI-driven decision systems
-- Multi-agent orchestration frameworks
-
-### 🧠 AI Capabilities
-- Generative AI (LLMs, Prompt Engineering)
-- Agentic AI (Autonomous workflows)
-- RAG Architectures
-- Azure AI / OpenAI integrations
-- AI + Business Strategy
+With a strong emphasis on:
+> Moving from *experimentation* → *production-ready AI solutions*
 
 ---
 
-## 🏗️ Featured Projects
+## 🔍 Areas of Focus
 
-> ⚠️ (Curated — not everything, only what matters)
-
-### 🔹 SmartDoc AI
-AI-powered document processing platform  
-👉 Extract | Validate | Compare | Analyze documents at scale  
-
-🔗 https://github.com/YugMallik/<your-repo>
-
----
-
-### 🔹 AI LinkedIn Post Generator
-End-to-end system to:
-- Generate posts
-- Suggest hooks & tones
-- Schedule content
-- Recommend follow-ups  
-
-🔗 https://github.com/YugMallik/<your-repo>
+- **Generative AI & LLM Applications**
+- **Agentic AI & Autonomous Workflows**
+- **AI-Driven Automation**
+- **Document Intelligence Systems**
+- **AI Integration for Enterprise Platforms**
+- **Decision Support & Analytics Systems**
 
 ---
 
-### 🔹 AI Orchestrator (Agentic System)
-Multi-agent system to automate workflows using AI  
-👉 Think: AI agents collaborating to complete tasks  
+## 🏗️ Selected Work
 
-🔗 https://github.com/YugMallik/<your-repo>
+Below are some representative projects that reflect my work in AI systems and applied engineering:
 
----
+### 🔹 AI Document Intelligence
+End-to-end system for document extraction, validation, and structured insights generation.
 
-### 🔹 AI Document Generator
-Convert transcripts → structured documents → downloadable files  
-
-🔗 https://github.com/YugMallik/<your-repo>
+👉 https://github.com/YugMallik/azure-document-intelligence-extractor
 
 ---
 
-## 🛠️ Tech Stack
+### 🔹 Azure OpenAI Summerizer
+AI-powered solution for generating concise, context-aware summaries from large text inputs using Azure OpenAI.
 
-**Languages**
-- Python
-- SQL
+👉 https://github.com/YugMallik/azure-openai-summarizer
 
-**AI / ML**
-- OpenAI / Azure OpenAI
-- LangChain / LangGraph
-- RAG Architectures
+---
+
+### 🔹 Azure Document Compare
+Intelligent document comparison system that identifies differences, similarities, and key changes across documents using AI.
+
+👉 https://github.com/YugMallik/azure-doc-compare
+
+---
+
+### 🔹 Azure OpenAI Enterprise RAG
+Enterprise-grade Retrieval-Augmented Generation (RAG) system for querying and extracting insights from large, unstructured data sources.
+
+👉 https://github.com/YugMallik/AZURE-RAG-OpenAI
+
+---
+
+## 🛠️ Technical Expertise
+
+**AI & Machine Learning**
+- Large Language Models (LLMs)
 - Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agent-based Architectures
 
-**Cloud & Tools**
-- Microsoft Azure
-- Cognitive Search
+**Microsoft Azure AI**
+- Azure OpenAI Service (GPT models, embeddings)
+- Azure AI Studio (model orchestration & evaluation)
+- Azure Cognitive Search (vector search, hybrid search)
+- Azure AI Document Intelligence (OCR, form recognition)
+- Azure Machine Learning (model lifecycle & deployment)
+- Azure Bot Services (conversational AI solutions)
+  
+**Frameworks & Tools**
+- Azure OpenAI
+- LangChain / LangGraph
+- Azure Cognitive Search
+- API Design & Integrations
+
+**Data & Analytics**
 - Power BI
-- APIs & Integrations
+- Data Modeling
+- Workflow Automation Systems
 
 ---
 
-## 🚀 What I'm Building Right Now
+## 📈 Current Focus
 
-Building **Ultrion Tech** — an AI-first company focused on:
-
-- AI Products (SmartDoc AI 🚀)
-- AI Automation for Businesses
-- AI Strategy & Consulting
-
-👉 Goal: Help companies move from **AI curiosity → AI execution**
+- Building scalable AI systems that integrate seamlessly into business workflows  
+- Designing agent-based architectures for automation and decision-making  
+- Exploring practical applications of AI across industries  
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Collaboration
 
-I’m actively looking to:
-- Build AI products with startups
-- Partner on AI automation projects
-- Work with US-based clients on AI solutions
+I’m open to collaborating on:
+- Applied AI projects
+- Automation and workflow transformation initiatives
+- AI system design and architecture
 
-💬 If you're building something interesting in AI, let's connect.
-
-📩 Reach out via LinkedIn or open an issue here.
+If you're working on something meaningful in AI, feel free to connect.
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Philosophy
 
-<!-- Optional: Add GitHub stats cards -->
-<!-- Example:
-![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugMallik&show_icons=true)
--->
+> Build systems that are not just intelligent, but usable, scalable, and impactful.
 
----
 
-## ⚡ Fun Fact
-
-Most people wait to “learn enough” before building.  
-I believe in:
-
-> **Build → Break → Learn → Repeat**
-
----
-
-⭐ If you find my work interesting, consider giving a star!
